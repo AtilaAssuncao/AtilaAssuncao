@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtilaAssuncao&layout=compact&theme=dark&show_icons=true&locale=en" width="25.5%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtilaAssuncao&show_icons=true&theme=dark" width="30%"/>
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AtilaAssuncao&theme=dark&hide_border=true&fire=2FDD04&border=2FDD04&stroke=2FDD04&ring=2FDD04&dates=DDDDDD&currStreakNum=DDDDDD&sideNums=2FDD04&currStreakLabel=DDDDDD&sideLabels=DDDDDDEB" width="30%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtilaAssuncao&layout=compact&theme=dark&show_icons=true&locale=en" width="35%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtilaAssuncao&show_icons=true&theme=dark" width="42%"/>
+ <!-- <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AtilaAssuncao&theme=dark&hide_border=true&fire=2FDD04&border=2FDD04&stroke=2FDD04&ring=2FDD04&dates=DDDDDD&currStreakNum=DDDDDD&sideNums=2FDD04&currStreakLabel=DDDDDD&sideLabels=DDDDDDEB" width="30%" /> -->
 </div>
 
 <br/>
